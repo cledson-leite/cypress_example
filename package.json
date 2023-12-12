@@ -1,0 +1,14 @@
+{
+  "name": "curso-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "open": "cypress open"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "cypress": "^13.6.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
